@@ -1,1 +1,1 @@
-https://www.figma.com/design/ANaeJmGIUSlst0hn6v1EVC/Figma-basics?node-id=1669-162202&node-type=canvas&t=XA1ZyzokYHF7TzsB-0
+[https://www.figma.com/design/pOu7xW5Qdfdb69JoP781KF/01.duan-01-Learning-landing-page-tuhoc.cc?t=S42lDOyWpTwfTJ8X-1)](https://www.figma.com/design/pOu7xW5Qdfdb69JoP781KF/01.duan-01-Learning-landing-page-tuhoc.cc?t=S42lDOyWpTwfTJ8X-1)
