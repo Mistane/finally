@@ -238,8 +238,8 @@ a {
   margin-top: 48px;
 }
 
-.hero .stats{
-    margin-top: 8px;
+.hero .stats {
+  margin-top: 8px;
 }
 
 .hero .stats strong {
@@ -251,6 +251,106 @@ a {
   margin-right: 15px;
 }
 
-.hero .stats strong:nth-child(2){
-    margin-left: 28px;
+.hero .stats strong:nth-child(2) {
+  margin-left: 28px;
+}
+
+/* popular ----------------------- */
+.popular .body {
+  /* padding: 200px 135px 0; */
+  padding-top: 200px;
+  background: #fff;
+}
+
+.popular .hello {
+  color: #171100;
+  font-family: var(--font-heading);
+  font-size: 3.8rem;
+  font-weight: 700;
+  line-height: 1.26; /* 126.316% */
+  letter-spacing: -0.76px;
+}
+
+.popular .intro {
+  margin-top: 16px;
+  margin-bottom: 55px;
+  display: flex;
+}
+
+.popular .intro .navigate {
+  margin-left: 614px;
+  display: flex;
+}
+
+.popular .intro .navigate .arrow {
+  border: none;
+  background: transparent;
+}
+
+.popular .intro .navigate img {
+  width: 40px;
+  height: 40px;
+  background-color: #ffb900;
+}
+
+.popular .no-name {
+  display: flex;
+
+  justify-content: space-between;
+}
+
+.no-name .main-stuff {
+  margin: 16px 22px 32px;
+}
+
+.no-name .main-stuff .rate {
+  display: flex;
+}
+
+.no-name .main-stuff .rate .idk {
+  display: flex;
+  margin-left: 100px;
+  margin-right: 22px;
+}
+
+.no-name .main-stuff .rate .course-name {
+  color: #171100;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.67; /* 166.667% */
+  min-width: 167px;
+}
+
+.no-name .course {
+  max-width: 370px;
+  border: 0.5px solid #e2dfda;
+  border-radius: 20px;
+}
+
+.no-name .rating {
+  color: #fea31b;
+  font-size: 1.6rem;
+  font-style: normal;
+  line-height: 1.75; /* 175% */
+}
+
+.no-name .main-stuff .course-info {
+  margin-top: 6px;
+  color: #5f5b53;
+  font-size: 1.4rem;
+  line-height: 1.85; /* 185.714% */
+}
+
+.no-name .main-stuff .cost {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 22px;
+  align-items: center;
+}
+
+.no-name .main-stuff .pricy {
+  color: #171100;
+  font-size: 1.8rem;
+  font-weight: 600;
+  line-height: 1.67px; /* 166.667% */
 }
